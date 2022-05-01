@@ -16,6 +16,9 @@ body{
 .header{
     background-color: var(--background-clr);
 }
+.item {
+    list-style: none;
+}
 /* лого */
 .logo {
     font-family: 'Raleway';
@@ -56,6 +59,7 @@ body{
     letter-spacing: 0.02em;
     color: #757575;
     text-decoration: none;
+    list-style: none;
 }
 
 /* кнопки */
@@ -93,6 +97,9 @@ button{
     font-family: inherit;
     cursor: pointer;
 
+}
+.list-button {
+    list-style: none;
 }
 
 
