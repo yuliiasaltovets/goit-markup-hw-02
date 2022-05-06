@@ -80,23 +80,13 @@ body{
 
 .btn-portfolio:focus{
     background-color: #2196F3;
-    border-radius: 4px;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    text-align: center;
-    letter-spacing: 0.03em;
     color: #FFFFFF;
 }
 
 .btn-portfolio:hover{
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
     background-color: #2196F3;
     color: #ffffff;
-    text-decoration: none;
+    
 }
 
 
